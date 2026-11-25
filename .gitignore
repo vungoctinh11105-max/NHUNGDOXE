@@ -10,3 +10,10 @@ Release/
 .vscode/
 .settings/
 .metadata/
+*.lst
+*.su
+*.out
+.idea/
+*.launch
+*.user
+*.bak
